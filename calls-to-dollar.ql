@@ -1,4 +1,4 @@
-import javascript
+import javascript 
 
 from CallExpr dollarCall
 where dollarCall.getCalleeName() = "$"
